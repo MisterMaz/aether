@@ -1,2 +1,7 @@
-<!doctype html><title>aether</title><h1>aether</h1><p>Marketing audit software. 
-Contact: aetherosbeta@gmail.com</p>
+# AetherOS
+
+Marketing audit software for marketing teams.
+
+Contact: aetherosbeta@gmail.com
+
+**Our web crawler:** [AetherBot](aetherbot/): what it reads, how it follows robots.txt, and how to block it.
